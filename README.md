@@ -15,24 +15,19 @@ This project is the frontend portion of a Budget Tracker application, built usin
 src/
 │
 ├── components/
-│ ├── NavBar.jsx
-│ ├── NavBar.css
+│   ├── NavBar.jsx
 │
 ├── pages/
-│ ├── Home.jsx
-│ ├── Home.css
-│ ├── Show.jsx
-│ ├── Show.css
-│ ├── Edit.jsx
-│ ├── Edit.css
-│ ├── InputForm.jsx
-│ ├── InputForm.css
+│   ├── Home.jsx
+│   ├── Show.jsx
+│   ├── Edit.jsx
+│   ├── InputForm.jsx
 │
 ├── App.jsx
 ├── index.jsx
 ├── App.css
-├── main.jsx
-└── index.html
+└── index.css
+
 
 
 ## Installation
