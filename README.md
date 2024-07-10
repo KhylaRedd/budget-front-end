@@ -17,7 +17,6 @@ src/
 ├── components/
 │ ├── NavBar.jsx
 │ ├── NavBar.css
-
 │
 ├── pages/
 │ ├── Home.jsx
@@ -28,13 +27,11 @@ src/
 │ ├── Edit.css
 │ ├── InputForm.jsx
 │ ├── InputForm.css
-
 │
 ├── App.jsx
 ├── index.jsx
 ├── App.css
 ├── main.jsx
-
 └── index.html
 
 
