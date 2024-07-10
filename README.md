@@ -10,25 +10,6 @@ This project is the frontend portion of a Budget Tracker application, built usin
 - **Delete Budget Item**: Delete a budget item.
 - **Responsive Design**: Ensures good user experience on both desktop and mobile devices.
 
-## Project Structure
-
-src/
-│
-├── components/
-│   ├── NavBar.jsx
-│
-├── pages/
-│   ├── Home.jsx
-│   ├── Show.jsx
-│   ├── Edit.jsx
-│   ├── InputForm.jsx
-│
-├── App.jsx
-├── index.jsx
-├── App.css
-└── index.css
-
-
 
 ## Installation
 
